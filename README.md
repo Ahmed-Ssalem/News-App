@@ -2,7 +2,7 @@
 - News-App for android devices which able you to discover news across the world.
 
 ## Description
-- News-App provide the feature of discovering all the world news across various news channels.
+- News-App provides the feature of discovering all the world news across various news channels.
 
 ## Screenshots
 
